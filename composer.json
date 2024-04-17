@@ -1,0 +1,15 @@
+{
+    "name": "aleksandr/lesson_1",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "aleksandr-suchugov",
+            "email": "alex.coup@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
