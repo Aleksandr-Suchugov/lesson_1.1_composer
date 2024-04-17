@@ -1,5 +1,5 @@
 Скриншот созданного файла composer.json:
-
+![image with composer.json content](https://https://github.com/Aleksandr-Suchugov/lesson_1.1_composer/blob/main/src/screenshot.JPG)
 
 
 **В чем разница между файлами composer.json и composer.lock ?**
